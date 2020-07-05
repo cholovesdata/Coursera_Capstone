@@ -1,0 +1,3 @@
+#### Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use the Foursquare location data to solve the problem or execute your idea. You can absolutely use other datasets in combination with the Foursquare location data. So make sure that you provide adequate explanation and discussion, with examples, of the data that you will be using, even if it is only Foursquare location data.
+
+I used zip code and geocoordinate data from the website called "simple maps" (https://simplemaps.com/data/us-zips) and focused on the greater Seattle area (i.e., King county). After getting this data, I used the Foursquare location data to identify zip codes with ice cream shops in the King county.
